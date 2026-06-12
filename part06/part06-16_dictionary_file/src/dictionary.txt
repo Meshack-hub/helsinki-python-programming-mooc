@@ -1,0 +1,14 @@
+
+auto - car
+roska - garbage
+auto - car
+roska - garbage
+auto - car
+roska - garbage
+auto - car
+roska - garbage
+laukku - bag
+auto-car
+auto-car
+roska-garbage
+laukku-bag
