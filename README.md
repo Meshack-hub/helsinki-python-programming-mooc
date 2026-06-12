@@ -9,14 +9,15 @@ This repo contains my completed exercises from one of the most well-known beginn
 ## Structure
 Each folder contains the exercises completed in that part of the course.
 
-Folder         Main topic                 
-part01         Getting Started with Python, Variables, Input and Output
-part02         Conditionals, Boolean logic
-part03         Loops
-part04         Functions
-part05         Lists, Dictionaries, Strings
-part06         File Handling
-part07         Modules, Object-Oriented-Programming
+| Folder | Main Topics |
+| :------ | :---------- |
+| `part01` | Getting Started with Python, Variables, Input & Output |
+| `part02` | Conditionals, Boolean Logic |
+| `part03` | Loops |
+| `part04` | Functions |
+| `part05` | Lists, Dictionaries, Strings |
+| `part06` | File Handling |
+| `part07` | Modules, Object-Oriented Programming |
 
 ## Topics covered
 
